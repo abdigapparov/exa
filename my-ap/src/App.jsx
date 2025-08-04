@@ -37,7 +37,7 @@ function App() {
           subtitle="Limited time deals and weekend sales"
           games={specialOffers}
         />
-        {/* sdf */}
+        
         <GameSection 
           title="Top Sellers" 
           subtitle="Most popular games on Steam"
